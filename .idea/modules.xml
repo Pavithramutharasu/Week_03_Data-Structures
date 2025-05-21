@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/03_Sorting_Algorithms/03_Sorting_Algorithms.iml" filepath="$PROJECT_DIR$/03_Sorting_Algorithms/03_Sorting_Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Linear_Search_and_Binary_Search/04_Linear_Search_and_Binary_Search.iml" filepath="$PROJECT_DIR$/04_Linear_Search_and_Binary_Search/04_Linear_Search_and_Binary_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Runtime_Analysis/05_Runtime_Analysis.iml" filepath="$PROJECT_DIR$/05_Runtime_Analysis/05_Runtime_Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_03_Data-Structures.iml" filepath="$PROJECT_DIR$/Week_03_Data-Structures.iml" />
+    </modules>
+  </component>
+</project>
