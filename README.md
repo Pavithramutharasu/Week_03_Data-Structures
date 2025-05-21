@@ -2,7 +2,9 @@ Week 3: Data Structures
 Welcome to the repository for Week 3 of our Java learning journey. This week focused on understanding fundamental data structures and algorithms that form the core of efficient programming.
 
 Table of Contents
-1.Overview 2.Topics Covered
+1.Overview 
+
+2.Topics Covered
 
 Day 1: Introduction to Data Structures
 
@@ -13,10 +15,12 @@ Day 3: Sorting Algorithms
 Day 4–5: Linear Search and Binary Search
 
 Day 6: Algorithm's Runtime Analysis
+
 3.Prerequisites
 
 4.How to Use This Repository
 Overview In Week 3, we explored key data structures and algorithms that are foundational for writing optimized code. This week included learning how to implement and use stacks, searching algorithms like linear and binary search, different sorting techniques, and how to analyze the runtime efficiency of an algorithm.
+
 Topics Covered
 Day 1: Introduction to Data Structures
 
@@ -27,6 +31,7 @@ Importance in problem-solving and real-world applications
 Types of data structures (Linear vs Non-linear)
 
 Overview of operations: insertion, deletion, traversal, searching
+
 Day 2: Stack and Its Submission
 
 Introduction to Stack (LIFO)
@@ -36,6 +41,7 @@ Stack operations: push, pop, peek, isEmpty
 Applications of Stack
 
 Implementation of Stack using arrays or LinkedList
+
 Day 3: Sorting Algorithms
 
 What is sorting and why is it important?
@@ -47,6 +53,7 @@ Selection Sort
 Insertion Sort
 
 Time and space complexity analysis for each
+
 Day 4–5: Linear Search and Binary Search
 
 What is searching?
